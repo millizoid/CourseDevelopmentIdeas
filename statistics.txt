@@ -2,4 +2,7 @@ Ideas for curriculum:
 
     - Mean and standard deviation
     - Regression
-    -Bayes Theorm
+    - Bayes Theorm
+    - Probability
+    - Machine Learning
+    - Software development
